@@ -137,23 +137,17 @@ body {
 
 
 /*footer*/
-.footer {
-  background: #000;
-  padding: 30px 0px;
-  font-family: 'Play', sans-serif;
+#footer {
+  background: #e9e8e6;
+  padding: 30px 0;
+  color: #222222;
+  font-size: 14px;
   text-align: center;
 }
-
-.footer .row {
-  width: 100%;
-  margin: 1% 0%;
-  color: gray;
-  font-size: 0.8em;
-  justify-content: space-around;
+#footer .credits {
+  padding-top: 5px;
+  font-size: 13px;
 }
-
-.footer .row a {
-  text-decoration: none;
-  color: gray;
-  transition: 0.5s;
+#footer .credits a {
+  color: #34b7a7;
 }

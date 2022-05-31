@@ -1,0 +1,226 @@
+* {
+  box-sizing: border-box;
+}
+
+*:after,
+*:before {
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
+  ;
+}
+
+#logo {
+  font-size: 25px;
+}
+
+.logo {
+  color: black;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.container-fluid {
+  display: inline-block;
+  cursor: pointer;
+  margin-left: 1442px;
+  margin-bottom: -9px;
+}
+
+.bar1,
+.bar2,
+.bar3 {
+  width: 35px;
+  height: 5px;
+  background-color: #333;
+  margin: 6px 0;
+  transition: 0.4s;
+}
+
+.change .bar1 {
+  -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+  transform: rotate(-45deg) translate(-9px, 6px);
+}
+
+.change .bar2 {
+  opacity: 0;
+}
+
+.change .bar3 {
+  -webkit-transform: rotate(45deg) translate(-8px, -8px);
+  transform: rotate(45deg) translate(-8px, -8px);
+}
+
+.topnav {
+  background-color: #f1f1f1;
+  margin: -42px 0 0 0;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+
+.topnav a:hover {
+  border-bottom: 6px solid rgb(133, 133, 133);
+}
+
+.topnav a.active {
+  background-color: rgb(214, 214, 214);
+}
+
+#logo {
+  font-size: 25px;
+}
+
+.logo {
+  color: black;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.container-fluid {
+  display: inline-block;
+  cursor: pointer;
+  margin-left: 1442px;
+  margin-bottom: -9px;
+}
+
+.bar1,
+.bar2,
+.bar3 {
+  width: 35px;
+  height: 5px;
+  background-color: #333;
+  margin: 6px 0;
+  transition: 0.4s;
+}
+
+.change .bar1 {
+  -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+  transform: rotate(-45deg) translate(-9px, 6px);
+}
+
+.change .bar2 {
+  opacity: 0;
+}
+
+.change .bar3 {
+  -webkit-transform: rotate(45deg) translate(-8px, -8px);
+  transform: rotate(45deg) translate(-8px, -8px);
+}
+
+.topnav {
+  background-color: #ffffff;
+  margin: -42px 0 0 0;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+
+.topnav a:hover {
+  border-bottom: 6px solid rgb(133, 133, 133);
+}
+
+.topnav a.active {
+  background-color: rgb(214, 214, 214);
+}
+
+
+.text212 {
+  text-align: center;
+  padding: 0;
+  margin: 115px 0 0 0;
+}
+
+.text212 a {
+  text-decoration: none;
+  font-size: 20px;
+  color: blue;
+}
+
+.info h3 {
+  font-size: 25px;
+  text-align: center;
+}
+
+.info p {
+  font-size: 18px;
+  text-align: center;
+}
+
+
+.btn {
+  border: none;
+  color: white;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.success {
+  background-color: #0e0d0d;
+}
+
+.success a {
+  color: white;
+  text-decoration: none;
+}
+
+.success:hover {
+  background-color: #46a049;
+}
+
+.success {
+  margin: 39px 0 0 702px;
+}
+
+.info {
+  background-color: #0e1216;
+}
+
+.info a {
+  color: white;
+  text-decoration: none;
+}
+
+.info:hover {
+  background: #0b7dda;
+}
+
+.info {
+  margin: 14px 0 0 751px;
+}
+
+.warning {
+  background-color: #000000;
+}
+
+.warning a {
+  color: white;
+  text-decoration: none;
+}
+
+.warning:hover {
+  background: #e68a00;
+}
+
+.warning {
+  margin: 14px 0 0 715px;
+}

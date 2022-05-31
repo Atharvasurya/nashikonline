@@ -225,3 +225,20 @@ body {
 .warning {
   margin: 14px 0 0 715px;
 }
+
+/*footer*/
+#footer {
+  background: #e9e8e6;
+  padding: 30px 0;
+  color: #222222;
+  font-size: 14px;
+  text-align: center;
+  margin: 45px 0 0 0;
+}
+#footer .credits {
+  padding-top: 5px;
+  font-size: 13px;
+}
+#footer .credits a {
+  color: #34b7a7;
+}

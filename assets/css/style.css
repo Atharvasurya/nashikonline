@@ -79,9 +79,11 @@ body {
 }
 
 .img1 {
-  height: 324px;
-  width: 1584px;
-  display: flex;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1571px;
+  height: 414px;
   border: 1px solid black;
 }
 
@@ -124,14 +126,19 @@ body {
 }
 
 .fluid {
-  padding: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 521px;
+  height: 414px;
 }
 
 #img {
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 500px;
   height: 370px;
-  padding: 0;
-  margin: 64px 0 0 266px;
   border: none;
 }
 

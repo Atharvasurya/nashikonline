@@ -103,10 +103,11 @@ body {
 }
 
 .img-1 {
-  width: 354px;
-  height: 271px;
-  padding: 0;
-  margin: 1px 0 0 604px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 521px;
+  height: 414px;
 }
 
 .plc-2 h2 {
@@ -137,10 +138,11 @@ body {
 }
 
 .img-2 {
-  width: 354px;
-  height: 271px;
-  padding: 0;
-  margin: 1px 0 0 604px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 521px;
+  height: 414px;
 }
 
 .plc-3 h2 {
@@ -164,10 +166,11 @@ body {
 }
 
 .img-3 {
-  width: 354px;
-  height: 271px;
-  padding: 0;
-  margin: 1px 0 0 604px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 521px;
+  height: 414px;
 }
 
 .plc-4 h2 {
@@ -190,10 +193,11 @@ body {
 }
 
 .img-4 {
-  width: 354px;
-  height: 271px;
-  padding: 0;
-  margin: 1px 0 0 604px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 521px;
+  height: 414px;
 }
 
 

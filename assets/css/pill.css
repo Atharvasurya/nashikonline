@@ -116,10 +116,11 @@ body {
 }
 
 .img-1 {
-  width: 415px;
-  height: 289px;
-  padding: 0;
-  margin: 2px 0 0 575px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 521px;
+  height: 414px;
 }
 
 .pill1 p {
@@ -145,10 +146,11 @@ body {
 }
 
 .img-2 {
-  width: 415px;
-  height: 289px;
-  padding: 0;
-  margin: 2px 0 0 575px;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 521px;
+  height: 414px;
 }
 
 .pill3 h2 {
@@ -170,10 +172,11 @@ body {
 }
 
 .img-3 {
-  width: 415px;
-  height: 289px;
-  padding: 0;
-  margin: 2px 0 0 575px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 521px;
+  height: 414px;
 }
 
 .pill4 h2 {
@@ -195,10 +198,11 @@ body {
 }
 
 .img-4 {
-  width: 415px;
-  height: 289px;
-  padding: 0;
-  margin: 2px 0 0 575px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 521px;
+  height: 414px;
 }
 
 
@@ -222,10 +226,11 @@ body {
 }
 
 .img-5 {
-  width: 415px;
-  height: 289px;
-  padding: 0;
-  margin: 2px 0 0 575px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 521px;
+  height: 414px;
 }
 
 /*footer*/

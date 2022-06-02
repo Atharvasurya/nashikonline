@@ -117,11 +117,12 @@ body {
 }
 
 .plc-1 a {
-  text-decoration: none;
-  text-align: center;
+ text-decoration: none;
   padding: 0;
-  margin: 0 0 0 776px;
   font-size: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .plc-2 p {
@@ -130,11 +131,12 @@ body {
 }
 
 .plc-2 a {
-  text-decoration: none;
-  text-align: center;
+ text-decoration: none;
   padding: 0;
-  margin: 0 0 0 776px;
   font-size: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .img-2 {
@@ -158,11 +160,12 @@ body {
 }
 
 .plc-3 a {
-  text-decoration: none;
-  text-align: center;
+ text-decoration: none;
   padding: 0;
-  margin: 0 0 0 776px;
   font-size: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .img-3 {
@@ -185,11 +188,12 @@ body {
 }
 
 .plc-4 a {
-  text-decoration: none;
-  text-align: center;
+ text-decoration: none;
   padding: 0;
-  margin: 0 0 0 776px;
   font-size: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .img-4 {

@@ -178,10 +178,6 @@ body {
 
 .success {
   background-color: #0e0d0d;
-  display: flex;
-  margin-left: auto;
-  margin-right: auto;
-  align-items: center;
 }
 
 .success a {
@@ -194,7 +190,7 @@ body {
 }
 
 .success {
-  margin: 38px 0 0 79px;
+margin: 33px 0 0 680px;
 }
 
 .info {
@@ -211,7 +207,7 @@ body {
 }
 
 .info {
- margin: 0px 0 0 125px;
+ margin: 0px 0 0 730px;
 }
 
 .warning {
@@ -228,7 +224,7 @@ body {
 }
 
 .warning {
-  margin: 19px 0 0 79px;
+  margin: 19px 0 0 685px;
 }
 
 /*footer*/
